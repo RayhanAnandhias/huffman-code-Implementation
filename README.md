@@ -1,2 +1,2 @@
 # huffman-code-Implementation
-Implementasi Encode dan Decode FIle Teks menggunakan toeri Huffman Code
+Implementasi Encode dan Decode File Teks menggunakan teori Huffman Code
